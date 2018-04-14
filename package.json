@@ -1,0 +1,14 @@
+{
+  "name": "taller",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Alexis Navarro <alexisnavarro23@gmail.com>",
+  "license": "MIT",
+  "quokka": {
+    "babel": false
+  },
+  "babel": {
+    "polyfill": true,
+    "presets": ["es2015"]
+  },
+}
