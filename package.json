@@ -9,6 +9,12 @@
   },
   "babel": {
     "polyfill": true,
-    "presets": ["es2015"]
+    "presets": [
+      "es2015"
+    ]
   },
+  "dependencies": {
+    "babel": "^6.23.0",
+    "babel-core": "^6.26.0"
+  }
 }
